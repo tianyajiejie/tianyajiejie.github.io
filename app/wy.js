@@ -10,3 +10,5 @@ search_box += '<div class="box"><a href="https://wuyayy.com/"></a><p><img class=
 search_box += '<div class="box"><a href="https://m.23wxc.com/"></a><p><img class="icon" src="home_book.png" alt=""></p><p class="url">顶点小说</p></div>';
 search_box += '<div class="box"><a href="https://translate.google.cn"></a><p><img class="icon" src="home_translate.png" alt=""></p><p class="url">谷歌翻译</p></div>';
 search_box += '<div class="box"><a href="https://movie.douban.com/"></a><p><img class="icon" src="home_mark.png" alt=""></p><p class="url">豆瓣影评</p></div>';
+
+// UPDATE 2020-7-6
